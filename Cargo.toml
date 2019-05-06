@@ -1,7 +1,11 @@
 [package]
 name = "bbapi"
 version = "0.1.0"
+description = "A simple utility crate for the BoobBot API."
 authors = ["william <me@stylite.me>"]
+license = "ISC"
+readme = "README.md"
+keywords = ["boobbot", "API"]
 edition = "2018"
 
 [dependencies]
