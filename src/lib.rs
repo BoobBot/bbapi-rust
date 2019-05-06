@@ -12,7 +12,7 @@ pub struct Response {
 }
 
 /*
- * Get's a image type
+ * Get's a image url for the specified type
  */
 pub fn get_img(img_type: String, api_key: String) -> Result<String, String> {
     let client = reqwest::Client::new();
