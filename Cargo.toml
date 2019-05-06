@@ -1,0 +1,11 @@
+[package]
+name = "bbapi"
+version = "0.1.0"
+authors = ["william <me@stylite.me>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.16"
+serde = "1.0.90"
+serde_derive = "1.0.90"
+env_logger = "0.6.1"
