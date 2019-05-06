@@ -2,6 +2,8 @@
 name = "bbapi"
 version = "0.1.0"
 description = "A simple utility crate for the BoobBot API."
+homepage = "https://github.com/BoobBot/bbapi-rust"
+documentation = "https://docs.rs/bbapi"
 authors = ["william <me@stylite.me>"]
 license = "ISC"
 readme = "README.md"
